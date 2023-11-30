@@ -10,4 +10,4 @@ def infinite_add():
 
 
 if __name__ == '__main__':
-    infinite_add(g
+    infinite_add()
